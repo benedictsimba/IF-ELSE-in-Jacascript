@@ -1,0 +1,36 @@
+
+<!DOCTYPE html>
+<html>
+<title></title>
+<head>
+    <script>
+        <!--
+        var Grade = 100
+        var comment = "You Scored a (n)"
+        if(Grade>80)
+        {
+            document.write(comment+" A")
+        }
+        else if (Grade>70)
+        {
+            document.write(comment+" B")
+        }
+        else if(Grade>60)
+        {
+            document.write(comment+" C")
+        }
+        
+        else if(Grade>50)
+        {
+            document.write(comment+" D")
+        }
+        else if(Grade<=50)
+        {
+        document.write(comment+" F, "+" You failed")
+        }
+        -->
+    </script>
+</head>
+<body>
+</body>
+</html>
